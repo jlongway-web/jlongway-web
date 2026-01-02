@@ -1,5 +1,28 @@
 ## Hi there 👋
 
+I am a a Data Scientist | Machine Learning Developer passionate about using stochastic methods and statistical analysis to solve complex real-world problems. My work spans from epidemiological modeling in Python to medical diagnostic optimization in R.
+
+## 🚀 Featured Projects
+
+### 🧪 [Flu Outbreak Simulator](LINK_TO_PYTHON_REPO) (Python)
+A stochastic Monte Carlo simulation modeling virus progression (SEIR) through a population.
+* **Key Skills:** NumPy, Matplotlib, Stochastic Modeling.
+
+### 🏥 [Medical Imputation Analysis](LINK_TO_R_REPO) (R)
+A comparative study of data imputation techniques (Regression, Perturbation, Mean/Mode) on Breast Cancer diagnostic models.
+* **Key Skills:** R (ggplot2, tidyr), SVM, Logistic Regression, Statistical Imputation.
+
+## 🛠 Tech Stack
+* **Languages:** Python, R, SQL, VBA
+* **Libraries:** Pandas, NumPy, Scikit-learn, Tidyverse, ggplot2
+* **Tools:** Arena Simulation, Git/GitHub, RStudio
+
+---
+
+### 📈 Activity and Growth
+I'm currently expanding my toolkit into **Web Scraping** and automated data pipelines. 
+[Your Email]
+
 <!--
 **jlongway-web/jlongway-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
