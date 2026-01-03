@@ -21,7 +21,7 @@ A comparative study of data imputation techniques (Regression, Perturbation, Mea
 
 ### 📈 Activity and Growth
 I'm currently expanding my toolkit into **Web Scraping** and automated data pipelines. 
-[Your Email]
+
 
 <!--
 **jlongway-web/jlongway-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
