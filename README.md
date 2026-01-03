@@ -4,6 +4,11 @@ I am a a Data Scientist | Machine Learning Developer passionate about using stoc
 
 ## 🚀 Featured Projects
 
+📧 Email Spam Classifier (Python)
+Developed an end-to-end NLP pipeline to classify spam with 98% accuracy. I performed extensive Data Engineering to reduce a 130MB raw corpus to an optimized 18MB feature set using Regex and TF-IDF vectorization. By implementing weighted Logistic Regression, I prioritized the reduction of False Positives to ensure legitimate "Ham" emails are preserved, mimicking real-world production constraints.
+
+Tools: Python (scikit-learn, Pandas), TF-IDF, Regex, Matplotlib.
+
 ### 🧪 [Flu Outbreak Simulator](LINK_TO_PYTHON_REPO) (Python)
 A stochastic Monte Carlo simulation modeling virus progression (SEIR) through a population.
 * **Key Skills:** NumPy, Matplotlib, Stochastic Modeling.
