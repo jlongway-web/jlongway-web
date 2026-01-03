@@ -13,7 +13,7 @@ Developed an end-to-end NLP pipeline to classify spam with 98% accuracy. I perfo
 A stochastic Monte Carlo simulation modeling virus progression (SEIR) through a population.
 * **Key Skills:** NumPy, Matplotlib, Stochastic Modeling.
 
-### 🏥 [Medical Imputation Analysis](LINK_TO_R_REPO) (R)
+### 🏥 [Medical Imputation Analysis](https://github.com/jlongway-web/Data-Imputation) (R)
 A comparative study of data imputation techniques (Regression, Perturbation, Mean/Mode) on Breast Cancer diagnostic models.
 * **Key Skills:** R (ggplot2, tidyr), SVM, Logistic Regression, Statistical Imputation.
 
