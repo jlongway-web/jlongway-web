@@ -9,7 +9,7 @@ An end-to-end NLP pipeline to classify spam with 98% accuracy. I performed exten
 
 * Tools: Python (scikit-learn, Pandas), TF-IDF, Regex, Matplotlib.
 
-* ### 🧪 [Flu Outbreak Simulator](https://github.com/jlongway-web/SIER-Simulation-Demo) (Python)
+### 🧪 [Flu Outbreak Simulator](https://github.com/jlongway-web/SIER-Simulation-Demo) (Python)
 A stochastic Monte Carlo simulation modeling virus progression (SEIR) through a population.
 * **Key Skills:** NumPy, Matplotlib, Stochastic Modeling.
   
