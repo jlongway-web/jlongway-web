@@ -4,15 +4,12 @@ I am a a Data Scientist | Machine Learning Developer passionate about using stoc
 
 ## 🚀 Featured Projects
 
-![Python](https://img.shields.io/badge/Pipeline-Python-3776AB?style=for-the-badge&logo=python)
-
 ### 📧 [Email Spam Classifier](https://github.com/jlongway-web/Email-Spam-Classifier-NLP-Logistic-Regression) (Python)
 An end-to-end NLP pipeline to classify spam with 98% accuracy. I performed extensive Data Engineering to reduce a 130MB raw corpus to an optimized 18MB feature set using Regex and TF-IDF vectorization. By implementing weighted Logistic Regression, I prioritized the reduction of False Positives to ensure legitimate "Ham" emails are preserved, mimicking real-world production constraints.
 
 * Tools: Python (scikit-learn, Pandas), TF-IDF, Regex, Matplotlib.
   
-![SQL](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge&logo=postgresql)
-### [City Agency Performance Tracker](https://github.com/jlongway-web/Agency_Performance_SQL_Analysis) (SQL)
+### 📊 [City Agency Performance Tracker](https://github.com/jlongway-web/Agency_Performance_SQL_Analysis) (SQL)
 A relational database and a library of advanced SQL queries to track "Resolution Velocity" and "Volume Ranking."
 * Key Highlight: Implemented Window Functions to rank agency speed per month, providing a relative performance metric that accounts for seasonal fluctuations.
 * **Key Skills:** SQLite, Python, Advanced SQL (Window Functions)
@@ -28,13 +25,11 @@ A comparative study of data imputation techniques (Regression, Perturbation, Mea
 ## 🛠 Tech Stack
 * **Languages:** Python, R, SQL
 * **Libraries:** Pandas, NumPy, Scikit-learn, Tidyverse, ggplot2
-* **Tools:** Arena Simulation, Git/GitHub, RStudio
+* **Tools:** Arena Simulation, Git/GitHub, RStudio, VS Code
 
----
 
 ### 📈 Activity and Growth
-I'm currently expanding my toolkit into D3.js. 
-
+Currently expanding my toolkit into D3.js for interactive data storytelling and Deep Learning frameworks.
 
 <!--
 **jlongway-web/jlongway-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
