@@ -9,7 +9,7 @@ An end-to-end NLP pipeline to classify spam with 98% accuracy. I performed exten
 
 * Tools: Python (scikit-learn, Pandas), TF-IDF, Regex, Matplotlib.
 
-### 📂 City Agency Performance Tracker (SQL)
+### 📂 [City Agency Performance Tracker](https://github.com/jlongway-web/Agency_Performance_SQL_Analysis) (SQL)
 A relational database and a library of advanced SQL queries to track "Resolution Velocity" and "Volume Ranking."
 * Key Highlight: Implemented Window Functions to rank agency speed per month, providing a relative performance metric that accounts for seasonal fluctuations.
 * **Key Skills:** SQLite, Python, Advanced SQL (Window Functions)
