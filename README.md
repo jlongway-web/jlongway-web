@@ -25,7 +25,7 @@ A comparative study of data imputation techniques (Regression, Perturbation, Mea
 ---
 
 ### 📈 Activity and Growth
-I'm currently expanding my toolkit into D3.js and automated data pipelines. 
+I'm currently expanding my toolkit into D3.js. 
 
 
 <!--
