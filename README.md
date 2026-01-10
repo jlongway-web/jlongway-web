@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a a Data Scientist | Machine Learning Developer passionate about using stochastic methods and statistical analysis to solve complex real-world problems. My work spans from epidemiological modeling in Python to medical diagnostic optimization in R.
+I am a a Data Scientist | Analytics Specialist passionate about using stochastic methods and statistical analysis to solve complex real-world problems. My work spans from epidemiological modeling in Python to medical diagnostic optimization in R.
 
 ## 🚀 Featured Projects
 
