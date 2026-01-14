@@ -7,7 +7,7 @@ I am a a Data Scientist | Analytics Specialist passionate about using stochastic
 ### 📧 [Email Spam Classifier](https://github.com/jlongway-web/Email-Spam-Classifier-NLP-Logistic-Regression) (Python)
 An end-to-end NLP pipeline to classify spam with 98% accuracy. I performed extensive Data Engineering to reduce a 130MB raw corpus to an optimized 18MB feature set using Regex and TF-IDF vectorization. By implementing weighted Logistic Regression, I prioritized the reduction of False Positives to ensure legitimate "Ham" emails are preserved, mimicking real-world production constraints.
 
-* Tools: Python (scikit-learn, Pandas), TF-IDF, Regex, Matplotlib.
+* Tools: Python (Scikit-learn, Pandas), TF-IDF, Regex, Matplotlib.
 
 ### 🧪 [Flu Outbreak Simulator](https://github.com/jlongway-web/SIER-Simulation-Demo) (Python)
 A stochastic Monte Carlo simulation modeling virus progression (SEIR) through a population.
