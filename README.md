@@ -2,7 +2,7 @@
 
 I am a a Data Scientist | Analytics Specialist passionate about using stochastic methods and statistical analysis to solve complex real-world problems. My work spans from epidemiological modeling in Python to medical diagnostic optimization in R.
 
-## Featured Projects
+# Featured Projects
 
 ### 📧 [Email Spam Classifier](https://github.com/jlongway-web/Email-Spam-Classifier-NLP-Logistic-Regression) (Python)
 An end-to-end NLP pipeline to classify spam with 98% accuracy. I performed extensive Data Engineering to reduce a 130MB raw corpus to an optimized 18MB feature set using Regex and TF-IDF vectorization. By implementing weighted Logistic Regression, I prioritized the reduction of False Positives to ensure legitimate "Ham" emails are preserved, mimicking real-world production constraints.
