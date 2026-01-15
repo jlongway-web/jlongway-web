@@ -5,7 +5,7 @@ I am a a Data Scientist | Analytics Specialist passionate about using stochastic
 # Featured Projects
 
 ### 📧 [Email Spam Classifier](https://github.com/jlongway-web/Email-Spam-Classifier-NLP-Logistic-Regression) (Python)
-An end-to-end NLP pipeline to classify spam with 98% accuracy. I performed extensive Data Engineering to reduce a 130MB raw corpus to an optimized 18MB feature set using Regex and TF-IDF vectorization. By implementing weighted Logistic Regression, I prioritized the reduction of False Positives to ensure legitimate "Ham" emails are preserved, mimicking real-world production constraints.
+An end-to-end NLP pipeline to classify spam with 98% accuracy. Uses Data Engineering to reduce a 130MB raw corpus to an optimized 18MB feature set using Regex and TF-IDF vectorization. By implementing weighted Logistic Regression, False Positives are reduced to ensure legitimate "Ham" emails are preserved, mimicking real-world production constraints.
 
 * Tools: Python (Scikit-learn, Pandas), TF-IDF, Regex, Matplotlib.
 
