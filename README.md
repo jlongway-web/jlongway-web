@@ -14,7 +14,7 @@ A stochastic Monte Carlo simulation modeling virus progression (SEIR) through a 
 * **Key Skills:** NumPy, Matplotlib, Stochastic Modeling.
   
 ### 📊 [City Agency Performance Tracker](https://github.com/jlongway-web/Agency_Performance_SQL_Analysis) (SQL)
-A relational database and a library of advanced SQL queries to track "Resolution Velocity" and "Volume Ranking."
+A relational database and a library of advanced SQL queries to track resolution velocity and volume ranking.
 * Key Highlight: Implemented Window Functions to rank agency speed per month, providing a relative performance metric that accounts for seasonal fluctuations.
 * **Key Skills:** SQLite, Python, Advanced SQL (Window Functions)
 
