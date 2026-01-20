@@ -19,7 +19,7 @@ A relational database and a library of advanced SQL queries to track resolution 
 * **Key Skills:** SQLite, Python, Advanced SQL (Window Functions)
 
 ### 🏥 [Medical Imputation Analysis](https://github.com/jlongway-web/Data-Imputation) (R)
-A comparative study of data imputation techniques (Regression, Perturbation, Mean/Mode) on Breast Cancer diagnostic models.
+A comparative study of data imputation techniques (Regression, Perturbation, Mean/Mode, Binary) on Breast Cancer diagnostic models.
 * **Key Skills:** R (ggplot2, tidyr), SVM, Logistic Regression, Statistical Imputation.
 
 ## 🛠 Tech Stack
