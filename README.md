@@ -23,8 +23,8 @@ A comparative study of data imputation techniques (Regression, Perturbation, Mea
 * **Key Skills:** R (ggplot2, tidyr), SVM, Logistic Regression, Statistical Imputation.
 
 ## 🛠 Tech Stack
-* **Languages:** Python, R, SQL
-* **Libraries:** Pandas, NumPy, Scikit-learn, Tidyverse, ggplot2
+* **Languages:** Python, R, SQL, HTML
+* **Libraries:** Pandas, NumPy, Scikit-learn, Tidyverse, ggplot2, pyspark, D3.js
 * **Tools:** Arena Simulation, Git/GitHub, RStudio, VS Code
 
 
