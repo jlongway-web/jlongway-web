@@ -25,7 +25,7 @@ A comparative study of data imputation techniques (Regression, Perturbation, Mea
 ## 🛠 Tech Stack
 * **Languages:** Python, R, SQL, HTML
 * **Libraries:** Pandas, NumPy, Scikit-learn, Tidyverse, ggplot2, pyspark, D3.js
-* **Tools:** Arena Simulation, Git/GitHub, RStudio, VS Code
+* **Tools:** Arena Simulation, Git/GitHub, RStudio, VS Code, Databricks
 
 
 ### 📈 Activity and Growth
